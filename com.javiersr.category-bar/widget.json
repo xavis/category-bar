@@ -1,0 +1,13 @@
+{
+	"id": "com.javiersr.category-bar",
+	"name": "com.javiersr.category-bar",
+	"description" : "An scrollable bar for creating a categories or menu views",
+	"author": "Javier Sánchez Riquelme",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"menu, bar, select, scroll",
+	"platforms":"android,blackberry,ios,mobileweb"
+}

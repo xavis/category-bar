@@ -1,0 +1,12 @@
+<Alloy>
+		<View id="category">
+			<View class="catcontainer">
+				<View class="padding"></View>
+				<ImageView id="image"></ImageView>
+				<View class="padding"></View>
+				<Label id="title" text="Example"></Label>
+				<View class="padding"></View>
+			</View>
+			<View id="selector"></View>
+		</View>	
+</Alloy>

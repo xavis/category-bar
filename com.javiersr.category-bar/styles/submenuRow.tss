@@ -1,0 +1,38 @@
+"#submenuRow": {
+	layout:"vertical",
+	height: Ti.UI.SIZE
+}
+
+"#submenuRow[platform=ios]": {
+	selectedBackgroundColor: "transparent",
+	selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.NONE
+}
+
+".dataContainerSubmenu":{
+	layout: "horizontal",
+	height: Titanium.UI.SIZE
+}
+
+".padding":{
+	height: 10
+}
+
+"#image":{
+	width:30,
+	height:30,
+	left: 50,
+}
+
+"#image[platform=ios]":{
+	left:30
+}
+
+"#title":{
+	width:220,
+	left: 25
+}
+
+"#borderBottom":{
+	height: 2,
+	width: Ti.UI.FILL, 
+}

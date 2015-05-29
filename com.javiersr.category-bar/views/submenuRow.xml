@@ -1,0 +1,11 @@
+<Alloy>
+	<TableViewRow>
+		<View id="borderBottom"></View>
+		<View class="padding"></View>
+		<View class="dataContainerSubmenu">
+			<ImageView id="image"></ImageView>
+			<Label id="title"></Label>
+		</View>
+		<View class="padding"></View>
+	</TableViewRow>
+</Alloy>

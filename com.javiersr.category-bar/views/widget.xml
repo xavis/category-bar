@@ -1,0 +1,8 @@
+<Alloy>
+	<View layout="vertical" id="categoryBar">
+		<View height=Ti.UI.SIZE layout="vertical">
+			<ScrollView id="cbView"></ScrollView>
+		</View>
+		<TableView id="submenu"></TableView>
+	</View>
+</Alloy>

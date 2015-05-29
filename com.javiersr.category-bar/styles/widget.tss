@@ -1,0 +1,29 @@
+"#categoryBar":{
+	top:0,
+	height:100,
+	layout: "vertical"
+}
+
+"#cbView": {
+	height: 45,
+	width: Titanium.UI.FILL,
+	layout: "horizontal",
+	scrollType: "horizontal",
+	backgroundColor: "black",
+	color: "black",	
+	zIndex: 2
+}
+
+"#submenu": {
+	backgroundColor: "white",
+	zIndex: 1,
+	height: 0,
+	top:0
+}
+
+
+"#submenu[platform=ios]":{
+	height: 1,
+	style: Ti.UI.iPhone.TableViewStyle.PLAIN,
+	separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
+}
